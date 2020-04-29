@@ -24,5 +24,7 @@ Parent pom for dev-toolbox.org projects.
 history
 -------
 
+- v1.7.2 2020/04/29 : fix surefire and failsafe plugins version and override asm version for java 14 compatibility
+- v1.7.1 2020/04/21 : fix version parameter name
 - v1.7.0 2020/03/18 : java 14 and upgrade maven javadoc plugin to 3.2.0
 - previous versions : history lost :)
