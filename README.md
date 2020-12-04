@@ -1,7 +1,7 @@
 <!--
   - MIT License
   -
-  - Copyright © 2020 dev-toolbox.org
+  - Copyright Â© 2020 dev-toolbox.org
   -
   - Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files
   - (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish,
@@ -23,8 +23,8 @@ Parent pom for dev-toolbox.org projects.
 
 history
 -------
-
-- v1.7.2 2020/04/29 : fix surefire and failsafe plugins version and override asm version for java 14 compatibility
+- v1.7.3 2020/12/04 : upgrade javafx to 14.0.2.1, junit-jupiter to 5.7.0, surefire and failsafe plugins to 3.0.0-M5
+- v1.7.2 2020/04/29 : define surefire and failsafe plugins version and override asm version for java 14 compatibility
 - v1.7.1 2020/04/21 : fix version parameter name
 - v1.7.0 2020/03/18 : java 14 and upgrade maven javadoc plugin to 3.2.0
 - previous versions : history lost :)
