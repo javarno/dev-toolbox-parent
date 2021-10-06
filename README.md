@@ -23,7 +23,7 @@ Parent pom for dev-toolbox.org projects.
 
 history
 -------
-- v2.0.1 2021/10/06 : fixed deployment
+- v2.0.2 2021/10/06 : fixed deployment, upgraded asm to 9.2
 - v2.0.0 2021/10/06 : java 17, upgraded slf4j-api to 2.0.0-alpha5, logback to 1.3.0-alpha10, junit to v 5.8.1
 - v1.8.3 2021/10/06 : fixed java version / deployment
 - v1.8.0 2021/10/06 : jdk11 branch, downgraded slf4j-api to v1.7.32, logback to v1.2.6 / upgraded junit to v 5.8.1
