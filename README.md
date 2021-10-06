@@ -1,7 +1,7 @@
 <!--
   - MIT License
   -
-  - Copyright © 2020 dev-toolbox.org
+  - Copyright © 2020-2021 dev-toolbox.org
   -
   - Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files
   - (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish,
@@ -23,7 +23,9 @@ Parent pom for dev-toolbox.org projects.
 
 history
 -------
+- v2.0.1 2021/10/06 : fixed deployment
 - v2.0.0 2021/10/06 : java 17, upgraded slf4j-api to 2.0.0-alpha5, logback to 1.3.0-alpha10, junit to v 5.8.1
+- v1.8.3 2021/10/06 : fixed java version / deployment
 - v1.8.0 2021/10/06 : jdk11 branch, downgraded slf4j-api to v1.7.32, logback to v1.2.6 / upgraded junit to v 5.8.1
 - v1.7.3 2020/12/04 : upgrade javafx to 14.0.2.1, junit-jupiter to 5.7.0, surefire and failsafe plugins to 3.0.0-M5
 - v1.7.2 2020/04/29 : define surefire and failsafe plugins version and override asm version for java 14 compatibility
