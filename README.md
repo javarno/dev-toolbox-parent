@@ -23,6 +23,7 @@ Parent pom for dev-toolbox.org projects.
 
 history
 -------
+- v1.8.0 2021/10/06 : jdk11 branch, downgraded slf4j-api to v1.7.32, logback to v1.2.6 / upgraded junit to v 5.8.1
 - v1.7.3 2020/12/04 : upgrade javafx to 14.0.2.1, junit-jupiter to 5.7.0, surefire and failsafe plugins to 3.0.0-M5
 - v1.7.2 2020/04/29 : define surefire and failsafe plugins version and override asm version for java 14 compatibility
 - v1.7.1 2020/04/21 : fix version parameter name
