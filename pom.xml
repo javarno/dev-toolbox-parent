@@ -91,7 +91,7 @@
         <artifactId>maven-compiler-plugin</artifactId>
         <version>${maven-compiler-plugin.version}</version>
         <configuration>
-          <release>14</release>
+          <release>${java.version}</release>
           <encoding>UTF-8</encoding>
         </configuration>
       </plugin>
