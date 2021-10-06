@@ -24,12 +24,12 @@
 
   <groupId>org.dev-toolbox</groupId>
   <artifactId>dev-toolbox-parent</artifactId>
-  <version>1.8.2-SNAPSHOT</version>
+  <version>1.8.2</version>
 
   <url>https://github.com/javarno/dev-toolbox-parent</url>
   <scm>
     <connection>scm:git:https://github.com/javarno/dev-toolbox-parent.git</connection>
-    <tag>HEAD</tag>
+    <tag>dev-toolbox-parent-1.8.2</tag>
   </scm>
   <distributionManagement>
     <repository>
