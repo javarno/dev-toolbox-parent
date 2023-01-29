@@ -47,23 +47,23 @@
     <javafx.version>17.0.2</javafx.version>
     <javafx-base.version>${javafx.version}</javafx-base.version>
 
-    <slf4j-api.version>2.0.3</slf4j-api.version>
-    <logback-classic.version>1.4.4</logback-classic.version>
-    <junit.jupiter.version>5.9.1</junit.jupiter.version>
+    <slf4j-api.version>2.0.6</slf4j-api.version>
+    <logback-classic.version>1.4.5</logback-classic.version>
+    <junit.jupiter.version>5.9.2</junit.jupiter.version>
 
     <maven-clean-plugin.version>3.2.0</maven-clean-plugin.version>
-    <maven-dependency-plugin.version>3.3.0</maven-dependency-plugin.version>
+    <maven-dependency-plugin.version>3.5.0</maven-dependency-plugin.version>
     <maven-deploy-plugin.version>3.0.0</maven-deploy-plugin.version>
     <maven-compiler-plugin.version>3.10.1</maven-compiler-plugin.version>
-    <maven-install-plugin.version>3.0.1</maven-install-plugin.version>
+    <maven-install-plugin.version>3.1.0</maven-install-plugin.version>
     <maven-jar-plugin.version>3.3.0</maven-jar-plugin.version>
     <maven-javadoc-plugin.version>3.4.1</maven-javadoc-plugin.version>
     <maven-resources-plugin.version>3.3.0</maven-resources-plugin.version>
     <maven-source-plugin.version>3.2.1</maven-source-plugin.version>
-    <maven-surefire-plugin.version>3.0.0-M7</maven-surefire-plugin.version>
-    <maven-failsafe-plugin.version>3.0.0-M7</maven-failsafe-plugin.version>
-    <maven-release-plugin.version>3.0.0-M6</maven-release-plugin.version>
-    <wagon-ssh.version>3.5.2</wagon-ssh.version>
+    <maven-surefire-plugin.version>3.0.0-M8</maven-surefire-plugin.version>
+    <maven-failsafe-plugin.version>3.0.0-M8</maven-failsafe-plugin.version>
+    <maven-release-plugin.version>3.0.0-M7</maven-release-plugin.version>
+    <wagon-ssh.version>3.5.3</wagon-ssh.version>
   </properties>
 
   <dependencyManagement>
