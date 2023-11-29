@@ -48,7 +48,7 @@
     <javafx-base.version>${javafx.version}</javafx-base.version>
 
     <slf4j-api.version>2.0.9</slf4j-api.version>
-    <logback-classic.version>1.4.11</logback-classic.version>
+    <logback-classic.version>1.4.12</logback-classic.version>
     <junit.jupiter.version>5.10.0</junit.jupiter.version>
 
     <maven-clean-plugin.version>3.3.1</maven-clean-plugin.version>
