@@ -3,7 +3,7 @@
 <!--
   - MIT License
   -
-  - Copyright © 2020-2023 dev-toolbox.org
+  - Copyright © 2020-2024 dev-toolbox.org
   -
   - Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files
   - (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish,
@@ -35,7 +35,7 @@
     <repository>
       <id>dev-toolbox-maven-repository-sftp</id>
       <name>dev-toolbox maven repository</name>
-      <url>scp://maven.dev-toolbox.org/data/site/dev-toolbox.org/maven/web/main/</url>
+      <url>sftp://maven.dev-toolbox.org/data/site/dev-toolbox.org/maven/web/main/</url>
       <layout>default</layout>
     </repository>
   </distributionManagement>
@@ -47,22 +47,22 @@
     <javafx.version>21</javafx.version>
     <javafx-base.version>${javafx.version}</javafx-base.version>
 
-    <slf4j-api.version>2.0.9</slf4j-api.version>
-    <logback-classic.version>1.4.11</logback-classic.version>
-    <junit.jupiter.version>5.10.0</junit.jupiter.version>
+    <slf4j-api.version>2.0.12</slf4j-api.version>
+    <logback-classic.version>1.5.3</logback-classic.version>
+    <junit.jupiter.version>5.10.2</junit.jupiter.version>
 
-    <maven-clean-plugin.version>3.3.1</maven-clean-plugin.version>
-    <maven-compiler-plugin.version>3.11.0</maven-compiler-plugin.version>
-    <maven-dependency-plugin.version>3.6.0</maven-dependency-plugin.version>
+    <maven-clean-plugin.version>3.3.2</maven-clean-plugin.version>
+    <maven-compiler-plugin.version>3.12.1</maven-compiler-plugin.version>
+    <maven-dependency-plugin.version>3.6.1</maven-dependency-plugin.version>
     <maven-deploy-plugin.version>3.1.1</maven-deploy-plugin.version>
-    <maven-failsafe-plugin.version>3.1.2</maven-failsafe-plugin.version>
+    <maven-failsafe-plugin.version>3.2.5</maven-failsafe-plugin.version>
     <maven-install-plugin.version>3.1.1</maven-install-plugin.version>
     <maven-jar-plugin.version>3.3.0</maven-jar-plugin.version>
-    <maven-javadoc-plugin.version>3.5.0</maven-javadoc-plugin.version>
+    <maven-javadoc-plugin.version>3.6.3</maven-javadoc-plugin.version>
     <maven-resources-plugin.version>3.3.1</maven-resources-plugin.version>
     <maven-release-plugin.version>3.0.1</maven-release-plugin.version>
     <maven-source-plugin.version>3.3.0</maven-source-plugin.version>
-    <maven-surefire-plugin.version>3.1.2</maven-surefire-plugin.version>
+    <maven-surefire-plugin.version>3.2.5</maven-surefire-plugin.version>
     <wagon-ssh.version>3.5.3</wagon-ssh.version>
   </properties>
 

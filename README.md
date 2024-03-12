@@ -1,7 +1,7 @@
 <!--
   - MIT License
   -
-  - Copyright © 2020-2023 dev-toolbox.org
+  - Copyright © 2020-2024 dev-toolbox.org
   -
   - Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files
   - (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish,
@@ -23,6 +23,17 @@ Parent pom for dev-toolbox.org projects.
 
 history
 -------
+- v2.1.1 2023-09-23 : versions upgrade
+  * slf4j-api 2.0.9 -> 2.0.12
+  * logback-classic 1.4.11 -> 1.5.3
+  * junit.jupiter 5.10.0 -> 5.10.2
+  * maven-clean-plugin 3.3.1 -> 3.3.2
+  * maven-compiler-plugin 3.11.0 -> 3.12.1
+  * maven-dependency-plugin 3.6.0 -> 3.6.1
+  * maven-failsafe-plugin.version 3.1.2 -> 3.2.5
+  * maven-javadoc-plugin 3.5.0 -> 3.6.3
+  * maven-surefire-plugin 3.1.2 -> 3.2.5
+  * updated copyrights
 - v2.1.0 2023-09-23 :
   * java 21
   * upgraded javaFX to v21
